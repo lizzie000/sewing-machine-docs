@@ -1,5 +1,36 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Project – Docs</title><link>https://example.org/docs/</link><description>Recent content in Docs on My New Hugo Project</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 16:08:22 +0800</lastBuildDate><atom:link href="https://example.org/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Get Started</title><link>https://example.org/docs/get-started/</link><pubDate>Mon, 09 Mar 2026 17:11:46 +0800</pubDate><guid>https://example.org/docs/get-started/</guid><description>
-&lt;h2&gt;Appearance of the Sewing Machine&lt;span class="hx:absolute hx:-mt-20" id="appearance-of-the-sewing-machine"&gt;&lt;/span&gt;
-&lt;a href="#appearance-of-the-sewing-machine" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;See the following figure for quick learn about the component of the sewing machine.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://example.org/images/temp-front-appearance-202.png" alt="" loading="lazy" /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://example.org/images/temp-back-appearance-202.png" alt="" loading="lazy" /&gt;&lt;/p&gt;</description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Project – Docs</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on My New Hugo Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 Mar 2026 16:08:22 +0800</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Get Started</title>
+      <link>http://localhost:1313/docs/get-started/</link>
+      <pubDate>Mon, 09 Mar 2026 17:11:46 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/get-started/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Appearance of the Sewing Machine&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;appearance-of-the-sewing-machine&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#appearance-of-the-sewing-machine&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;See the following figure for quick learn about the component of the sewing machine.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/temp-front-appearance-202.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/temp-back-appearance-202.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
